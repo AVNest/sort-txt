@@ -1,0 +1,1 @@
+java -cp "out\production\sort-txt" Main %*

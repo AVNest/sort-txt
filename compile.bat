@@ -1,0 +1,1 @@
+javac -d out\production\sort-txt -sourcepath src src/Main.java
